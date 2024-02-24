@@ -1,8 +1,3 @@
-
-Sure! Here's how you can present the tasks as HTML code:
-
-html
-Copy code
 <!DOCTYPE html>
 <html lang="en">
 <head>
